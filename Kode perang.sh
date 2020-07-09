@@ -64,3 +64,5 @@ git clone https://github.com/siputra12/prank.git
 cd prank
 php wa.php
 fi
+
+if [ $nomor = 5 ] || [ $nomor = 05 ]
